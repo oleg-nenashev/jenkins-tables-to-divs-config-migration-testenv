@@ -1,4 +1,4 @@
-IMAGE_NAME=jenkins4eval/demo-config-tabs-to-divs
+IMAGE_NAME=jenkins4eval/jenkins-62437-config-tables-to-divs
 
 build:
 	docker build -t ${IMAGE_NAME} .

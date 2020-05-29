@@ -1,4 +1,6 @@
-# Test en
+# Test image for JENKINS-62437 - Config tables migration to divs
+
+![Docker Pulls](https://img.shields.io/docker/pulls/jenkins4eval/jenkins-62437-config-tables-to-divs)
 
 A Docker image which can be used for evaluation and testing of the [JENKINS-62437](https://issues.jenkins-ci.org/browse/JENKINS-62437) project -
 _Change Jenkins configuration UI from tables to divs_.
