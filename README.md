@@ -21,10 +21,10 @@ Hence I have created this repository to simplify testing.
 
 ## Usage
 
-You will need Docker and make to run this demo.
+You will need Docker and make to run this test environment.
 
-1. `make run` will run the image in the default mode.
-   You can also use `make run-preview` to run the theme with other UI improvements which are in preview.
+1. Execute `make run` will run the Jenkins container with the default UI.
+   See the commands for additional modes below.
 2. Go to the `http://localhost:8080`.
 3. Login with one of the user accounts (see below).
 4. Try out the theme, submit a GitHub Issue to this repository if you discover any compatibility issues.
