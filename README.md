@@ -34,9 +34,12 @@ For advanced use-cases, please see the documentation in [oleg-nenashev/demo-jenk
 ### Run modes
 
 * `make run` - Runs Jenkins with the default UI
-* `make run-dark` - Runs Jenkins with the default UI and the [Dark Theme](https://github.com/jenkinsci/dark-theme)
 * `make run-preview` - Runs Jenkins with the experimental UI
+
+<!--
+* `make run-dark` - Runs Jenkins with the default UI and the [Dark Theme](https://github.com/jenkinsci/dark-theme)
 * `make run-preview-dark` - Runs Jenkins with the experimental UI and the [Dark Theme](https://github.com/jenkinsci/dark-theme)
+-->
 
 ### User accounts
 

@@ -10,6 +10,7 @@ run:
 run-preview:
 	docker run --rm  -e EXPERIMENTAL_UI=true -p 8080:8080 -p 50000:50000 ${IMAGE_NAME}
 
+# Dark theme depends on https://github.com/jenkinsci/jenkins/pull/4752, and it will not work now
 run-dark:
 	docker run --rm  -e DARK_THEME=true -p 8080:8080 -p 50000:50000 ${IMAGE_NAME}
 
