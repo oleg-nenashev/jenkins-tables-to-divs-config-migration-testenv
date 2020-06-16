@@ -1,4 +1,4 @@
-FROM onenashev/demo-jenkins-config-as-code:v1.3.0
+FROM onenashev/demo-jenkins-config-as-code:v1.4.0
 
 # Override the Jenkins core by the incrementals or SNAPSHOT version
 # Tests https://github.com/jenkinsci/jenkins/pull/3895 at the moment
